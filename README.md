@@ -1,6 +1,6 @@
 # Star Rating Component
 
-An interactive and responsive **Star Rating System Component** built with **React, Vite, and Tailwind CSS**.
+An interactive and responsive **Star Rating Component** built with **React, Vite, and Tailwind CSS**.
 This project demonstrates half-star selection, smooth UI feedback, and clean component-based design.
 
 🔗 **Live Demo:** [https://hsb-ini-14.github.io/dummy-star-rating-system/](https://hsb-ini-14.github.io/dummy-star-rating-system/)
@@ -127,7 +127,7 @@ npm run deploy
 
 ## 📸 Preview
 
-> Add a screenshot or GIF of the star rating component here for better presentation.
+> to be added later
 
 ---
 
